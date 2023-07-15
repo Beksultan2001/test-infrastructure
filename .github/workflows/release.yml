@@ -176,7 +176,7 @@ jobs:
             with:
                 node-version: '18.x'
 
-          - name: "Install packages"
+          - name: "Install packags"
             run: npm ci  
 
           - name: "Build"
